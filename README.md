@@ -19,9 +19,9 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/vsaramaa/vsaramaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpukari&hide=c%2B%2B,c,html&title_color=00beff&text_color=8a919a&icon_color=00beff&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsaramaa&hide=c%2B%2B,c,html&title_color=00beff&text_color=8a919a&icon_color=00beff&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 </a>
 
 <a href="https://github.com/vsaramaa/vsaramaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vpukari&show_icons=true&line_height=27&count_private=true&title_color=00beff&text_color=8a919a&icon_color=00beff&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaramaa&show_icons=true&line_height=27&count_private=true&title_color=00beff&text_color=8a919a&icon_color=00beff&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 </a>
