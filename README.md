@@ -59,8 +59,8 @@
 
 Interested in learning more about my work and approach to software development?
 
-- **[About Me](https://www.vill.dev/about)**
-- **[Coding Practices](https://www.vill.dev/coding)**
-- **[Projects](https://www.vill.dev/projects)**
+- **[About Me](https://vill.dev/about)**
+- **[Coding Practices](https://vill.dev/coding)**
+- **[Projects](https://vill.dev/projects)**
 
 I'm passionate about continuous learning and love collaborating on interesting challenges. Feel free to reach out!
