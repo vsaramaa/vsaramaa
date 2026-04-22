@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello there, I'm <a href="https://www.vill.dev">Ville</a> 👋 </h1>
+   <h1>Hello there, I'm <a href="https://vill.dev">Ville</a> 👋 </h1>
 </div>
 
 ## Preferred Technologies & Tools
